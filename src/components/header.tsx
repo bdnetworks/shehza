@@ -90,7 +90,7 @@ export default function Header() {
                      <a href="https://wa.me/1234567890" target="_blank"><MessageSquare className="mr-2" /> হোয়াটসঅ্যাপ</a>
                   </Button>
                   <Button variant="outline" className="justify-start">
-                    <Search className="mr-2" /> অনুসন্ধান
+                    <Search className="mr-2" /> অনুসন্ধা
                   </Button>
                 </div>
               </div>
