@@ -16,7 +16,7 @@ export default function Footer() {
           <div className="lg:col-span-2">
             <Logo />
             <p className="mt-4 text-muted-foreground">
-              আপনার ডিজিটাল যাত্রাকে সহজ করতে আমরা আধুনিক এবং আকর্ষণীয় ওয়েবসাইট থিম ও ডিজিটাল পণ্য সরবরাহ করি।
+              আপনার ডিজিটাল যাত্রাকে সহজ করতে আমরা আধুনিক এবং আকর্ষণীয় ওয়েবসাইট থিম  সরবরাহ করি।
             </p>
             <div className="mt-6 flex space-x-4">
               <Link href="#" className="text-muted-foreground hover:text-primary">
